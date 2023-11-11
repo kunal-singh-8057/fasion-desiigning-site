@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+
+background-color: background-color: #412ed4;
+background-image: linear-gradient(19deg, #412ed4 0%, #B721FF 100%);
+width: 100%;
+height: 100vh;
+
+}
+
+ul{
+	list-style: none;
+	
+}
+
+ul li{
+	padding-top: 32px;
+	margin-left: 45%;
+}
+
+ul li a{
+	color: white;
+	text-decoration: none;
+	margin-left: 30px;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.heading{
+	color: white;
+	margin-top: -30px;
+	margin-left: 25px;
+	font-size: 12px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.heading2{
+	margin-left: 55%;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.side{
+
+	color: white;
+	margin-left: 45%;
+	margin-top: 20%;
+
+}
+
+.he1{
+	color: white;
+	font-size: 78px;
+	margin-left: -150px;
+	font-family: 'Josefin Sans', sans-serif;
+	
+
+}
+
+.he2{
+		font-family: 'Josefin Sans', sans-serif;
+
+
+
+}
+
+.he2:before{
+	content: "";
+	width: 800px;
+	height: auto;
+	border: 2px solid white;
+	position: absolute;
+	left: 40px;
+	bottom: 0;
+	margin-bottom: 27%
+		
+}
+
+
+img{
+	height: 800px;
+	margin-left: -10%;
+	margin-top: -25%;
+	position: fixed;
+	
+}
+
+.btn{
+	margin-left: 55%;
+	margin-top: -5%;
+	padding: 12px 26px;
+	text-align: center;
+	background-color: #d465ef;
+	font-weight: 500;
+	border: 1px solid transparent;
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.btns{
+	margin-top: -2%;
+	margin-left: 25%;
+}
+
+ul li a:hover{
+	border-top: 2px solid  #5dade2;
+	border-bottom: 2px solid #5dade2;
+}
+
+.active{
+	border-top: 2px solid  #5dade2;
+	border-bottom: 2px solid #5dade2;
+}
+
+.icons{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background: linear-gradient(to bottom,#615cfd 0%,#d465ef 100%);
+}
+
+.bg2{
+
+	height: 760px;
+	margin-left: 45%;
+	margin-top: 8%;
+
+}
+
